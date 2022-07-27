@@ -1,0 +1,28 @@
+{
+    "name": "parsewe-url",
+    "version": "0.0.2",
+    "description": "A simple url parser.",
+    "main": "index.js",
+    "author": {
+      "name": "Kagwe Muchane",
+      "email": "contact@kagwave.com",
+      "url": "https://www.kagwave.com"
+    },
+    "contributors": [
+      {
+        "name": "Kagwe Muchane",
+        "email": "contact@kagwave.com",
+        "url": "https://www.kagwave.com"
+      }
+    ],
+    "bugs": "https://github.com/kagwave/parsewe-url/issues",
+    "repository": "github:kagwave/parsewe-url",
+    "license": "MIT",
+    "keywords": [
+      "url",
+      "parse",
+      "parser",
+      "extract"
+    ]
+  }
+  
