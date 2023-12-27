@@ -1,6 +1,6 @@
 # parsewe-url
 
-Use this module to find a sun sign based on a date of birth.
+A simple url parser.
 
 ## Installation
 
